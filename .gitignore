@@ -28,3 +28,5 @@ art/build_html-debug.bat
 
 assets/shared/*
 assets/songs/*
+assets/week*
+assets/videos/*
